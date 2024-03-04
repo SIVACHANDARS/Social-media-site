@@ -1,3 +1,4 @@
+
 // SIDE BAR
 const menuItems = document.querySelectorAll('.menu-item');
 
